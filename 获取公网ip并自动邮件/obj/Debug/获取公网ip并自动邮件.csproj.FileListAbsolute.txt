@@ -1,0 +1,17 @@
+G:\OneDrive\C#项目\窗体应用程序\获取公网ip并自动邮件\获取公网ip并自动邮件\bin\Debug\获取公网ip并自动邮件.exe.config
+G:\OneDrive\C#项目\窗体应用程序\获取公网ip并自动邮件\获取公网ip并自动邮件\bin\Debug\获取公网ip并自动邮件.exe
+G:\OneDrive\C#项目\窗体应用程序\获取公网ip并自动邮件\获取公网ip并自动邮件\bin\Debug\获取公网ip并自动邮件.pdb
+G:\OneDrive\C#项目\窗体应用程序\获取公网ip并自动邮件\获取公网ip并自动邮件\obj\Debug\获取公网ip并自动邮件.csprojResolveAssemblyReference.cache
+G:\OneDrive\C#项目\窗体应用程序\获取公网ip并自动邮件\获取公网ip并自动邮件\obj\Debug\获取公网ip并自动邮件.csproj.GenerateResource.Cache
+G:\OneDrive\C#项目\窗体应用程序\获取公网ip并自动邮件\获取公网ip并自动邮件\obj\Debug\获取公网ip并自动邮件.exe
+G:\OneDrive\C#项目\窗体应用程序\获取公网ip并自动邮件\获取公网ip并自动邮件\obj\Debug\获取公网ip并自动邮件.pdb
+G:\OneDrive\C#项目\窗体应用程序\获取公网ip并自动邮件\获取公网ip并自动邮件\obj\Debug\获取公网ip并自动邮件.MainMenu.resources
+G:\OneDrive\C#项目\窗体应用程序\获取公网ip并自动邮件\获取公网ip并自动邮件\obj\Debug\获取公网ip并自动邮件.MsgForm.resources
+G:\OneDrive\C#项目\窗体应用程序\获取公网ip并自动邮件\获取公网ip并自动邮件\obj\Debug\获取公网ip并自动邮件.HelpForm.resources
+G:\OneDrive\C#项目\窗体应用程序\获取公网ip并自动邮件\获取公网ip并自动邮件\obj\Debug\获取公网ip并自动邮件.AboutForm.resources
+G:\OneDrive\C#项目\窗体应用程序\获取公网ip并自动邮件\获取公网ip并自动邮件\bin\Debug\获取公网ip并自动邮件.exe.manifest
+G:\OneDrive\C#项目\窗体应用程序\获取公网ip并自动邮件\获取公网ip并自动邮件\bin\Debug\获取公网ip并自动邮件.application
+G:\OneDrive\C#项目\窗体应用程序\获取公网ip并自动邮件\获取公网ip并自动邮件\obj\Debug\获取公网ip并自动邮件.exe.manifest
+G:\OneDrive\C#项目\窗体应用程序\获取公网ip并自动邮件\获取公网ip并自动邮件\obj\Debug\获取公网ip并自动邮件.application
+G:\OneDrive\C#项目\窗体应用程序\获取公网ip并自动邮件\获取公网ip并自动邮件\bin\Debug\CSkin.dll
+G:\OneDrive\C#项目\窗体应用程序\获取公网ip并自动邮件\获取公网ip并自动邮件\obj\Debug\GetExternalIP.Properties.Resources.resources

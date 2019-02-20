@@ -1,0 +1,76 @@
+
+<html>
+<head>
+<title>������ȡ���ع���IP��ַ</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<link rel="stylesheet" href="css.css" type="text/css">
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"><script type="text/javascript">
+(function (d) {
+var t=d.createElement("script");t.type="text/javascript";t.async=true;t.id="tb-beacon-aplus";
+t.setAttribute("exparams","category=&userid=&aplus&yunid=&yunpk=&channel=&cps=");
+t.src="//g.alicdn.com/alilog/mlog/aplus_v2.js";
+d.getElementsByTagName("head")[0].appendChild(t);
+})(document);
+</script><script type="text/javascript">
+(function (d) {
+var t=d.createElement("script");t.type="text/javascript";t.async=true;t.id="tb-beacon-aplus";
+t.setAttribute("exparams","category=&userid=&aplus&yunid=");
+t.src=("https:"==d.location.protocol?"https://s":"http://a")+".tbcdn.cn/s/aplus_v2.js";
+d.getElementsByTagName("head")[0].appendChild(t);
+})(document);
+</script>
+
+<table width=430 border=0 cellpadding=0 cellspacing=0>
+  <tr> 
+    <td colspan=2> <img src="http://static.hichinaimg.com/static/customercare/img/wentitan_01.gif" width=430 height=114></td>
+  </tr>
+  <tr> 
+    <td width="50" height="131" valign="top" background="http://static.hichinaimg.com/static/customercare/img/wentitan_04.gif"><img src="http://static.hichinaimg.com/static/customercare/img/wentitan_02.gif" width=50 height=131> 
+    </td>
+    <td rowspan=2 width="380" valign="top"> 
+      <table width="92%" border="0" cellspacing="0" cellpadding="0" align="center">
+        <tr> 
+          <td>&nbsp;</td>
+        </tr>
+        <tr> 
+          <td> 
+            <div align="right"><img src="http://static.hichinaimg.com/static/customercare/img/wentitan_07.gif"> </div>
+          </td>
+        </tr>
+        <tr> 
+          <td><br>
+            + <b><font size="2">��ȡ���ع���IP��ַ�ķ���</font></b>        
+            + <br>        
+            <img src="http://static.hichinaimg.com/static/customercare/img/wentitan_06.gif" width="318" height="1"></td>
+        </tr>
+        <tr> 
+          <td></td>
+        </tr>
+        <tr> 
+          <td>
+          <CENTER>
+          ���ı�������IP�ǣ�<h2>125.69.147.100</h2>
+         
+          </CENTER>
+          <br><br>
+          &nbsp;&nbsp;&nbsp;&nbsp;<font size="2">������ʾ����Ϣ��Ϊ�û��Լ������Ĺ���IP��ַ��ͨ������Ϣ���û������˽⵽�Լ����ӵ�Internet�Ϻ���ʹ�õ�IP��ַ���������Է����û�������������״�����Լ��Ų�����������ӹ��ϡ�</font> 
+          </td>
+        </tr>
+        <tr>
+          <td>&nbsp;</td>
+        </tr>
+      </table>
+      <p align="center"><a href="javascript:window.close();"><font color="#000000">���رմ��ڡ�</font></a></p>
+      </td>
+  </tr>
+  <tr> 
+    <td width="50" background="http://static.hichinaimg.com/static/customercare/img/wentitan_04.gif">&nbsp; </td>
+  </tr>
+  <tr> 
+    <td colspan=2> <img src="http://static.hichinaimg.com/static/customercare/img/wentitan_05.gif" width=430 height=20></td>
+  </tr>
+</table>
+</body>
+</html>
